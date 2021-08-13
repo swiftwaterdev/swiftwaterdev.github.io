@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Swiftwaterdev LLC
+title: Swiftwater Dev LLC
 email: admin@swiftwaterdev.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software development and consultation services.  
@@ -34,6 +34,19 @@ plugins_dir:
   - jekyll-avatar
   - jekyll-gist
   - jekyll-paginate
+
+  # the scheme can be any HEX code like "#00aa55"
+color-scheme: "mediumseagreen" 
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
