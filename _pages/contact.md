@@ -8,7 +8,8 @@ permalink: /contact/
 <div class="row py-4">
     <div class="col-md-12">
     <div class="well well-sm">
-        <form class="form-horizontal" action="#" method="post">
+        <form class="form-horizontal" action="https://usebasin.com/f/0b1095534fa9" method="post">
+        <input type="hidden" name="only_for_bots">
         <fieldset>
         <!-- Name input-->
         <div class="form-group">
