@@ -35,6 +35,11 @@ permalink: /contact/
         <!-- Form actions -->
         <div class="form-group">
             <div class="col-md-12">
+            <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-12">
             <button type="submit" class="btn btn-primary">Submit</button>
             </div>
         </div>
