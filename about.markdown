@@ -4,15 +4,32 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# All things web!  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## And some things native!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If there was a metaphorical radio show describing our team it would be "All things web." 
 
+The archetypical hosts would be Bob Martin and Scott Hanselman.
 
-[jekyll-organization]: https://github.com/jekyll
+We enjoy talking about .NET, IoT, SQL and technology.  Apple and Android are occasional topics of dicsussion but are not our passions.
+
+*We remember when:* 
+- ```module foo ... end module [foo]```
+- ```void (*foo)(int,int);   foo = &func;```
+- ```<frame>```
+- ```$('#id').text('hello')```
+
+*But currently prefer:*
+- ```namespace foo {}```
+- ```f1 = [](int x, int y) { return x*y; }```
+- ```<div>```
+- ```<div id=”id”> @val </div>```
+
+Let's talk about your project and how we can assist or just chat about tech in general.
+
+---
+
+|  |  |  |  |   |
+|---|---|---|---|
+| <img src="/assets/Azure_Public_Service_Icons/Icons/App Services/10035-icon-service-App-Services.svg"  width="100"/> | <img src="/assets/bootstrap-icons-1.5.0/plus.svg"  width="100"/> | <img src="/assets/Azure_Public_Service_Icons/Icons/Databases/02390-icon-service-Azure-SQL.svg"  width="100"/>  <img src="/assets/bootstrap-icons-1.5.0/arrow-right.svg"  width="100"/> |  <img src="/assets/bootstrap-icons-1.5.0/heart-fill.svg"  width="100"/> |
